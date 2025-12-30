@@ -1,0 +1,9 @@
+boards:
+  - name: levels54_left
+    vendor: gggw
+    socs:
+      - name: nrf52840
+  - name: levels54_right
+    vendor: gggw
+    socs:
+      - name: nrf52840

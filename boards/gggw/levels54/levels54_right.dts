@@ -13,7 +13,7 @@
 / {
   chosen {
     model = "levels54_right";
-    compatible = "levels54_right";
+    compatible = "gggw,levels54_right";
   };
 
   aliases {

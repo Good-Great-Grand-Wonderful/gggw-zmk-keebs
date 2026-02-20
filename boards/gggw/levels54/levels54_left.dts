@@ -11,10 +11,8 @@
 #include <behaviors/rate_limit.dtsi>
 
 / {
-  chosen {
     model = "levels54_left";
-    compatible = "gggw,levels54_left";
-  };
+    compatible = "levels54_left";
 
   aliases {
     led-red = &led0;

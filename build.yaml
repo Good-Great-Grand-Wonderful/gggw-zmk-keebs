@@ -9,4 +9,4 @@ include:
   - board: nice_nano
     shield: crosses_right
   - board: nice_nano
-    shield: settings-reset
+    shield: settings_reset

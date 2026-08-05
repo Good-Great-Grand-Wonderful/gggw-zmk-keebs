@@ -27,7 +27,7 @@ manifest:
       path: modules/zmk-pmw3610-driver-efog
     - name: zmk-report-rate-limit
       remote: efogdev
-      revision: zmk-0.4
+      revision: 7f55412be4f85069b67d5984ab7c71aa2a6cf34f
     - name: zmk-input-processor-xyz
       remote: badjeff
       revision: main
